@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/avishkarkotkar" target="blank"><img src="https://img.shields.io/twitter/follow/avishkarkotkar?logo=twitter&style=for-the-badge" alt="avishkarkotkar" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kotkaravi07@gmail.com**
 
